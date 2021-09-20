@@ -6,6 +6,9 @@ import (
 	"os"
 )
 
+//Commentaar
+
+
 func main (){
 	USER := bufio.NewReader(os.Stdin)
 	fmt.Print("Gebruikersnaam: ")
